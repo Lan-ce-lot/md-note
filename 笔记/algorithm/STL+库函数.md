@@ -120,3 +120,41 @@ pair<int, int>
 + reset()  把所有位变成0
 + flip()  等价于~
 + flip(k) 把第k位取反
+
+---
+
+
+
+# 神仙库函数
+
+## 1.字符串专题
+
+### string和char[]转换
+
+1. string转char	s.c_str()
+2. char转string    赋值
+
+### 字符串和数字
+
+1. 字符串 -> 数字
+
+   1. string->数字，atoi(s.c_str())
+
+   ```c++
+   int n,ans=0;
+   cin>>n;
+   for(int i=0;i<n;i++){
+       string s;
+       int tot=0,len,k;
+       cin>>s; 
+       len=s.length();
+       for(int j=len-1;j>=0;j--)
+       {
+           tot+=(int)pow(s[j]-'0',len);
+       }
+       k=atoi(s.c_str()); 
+       if(k==tot)ans++;
+   }
+   cout<<ans;
+   ```
+
