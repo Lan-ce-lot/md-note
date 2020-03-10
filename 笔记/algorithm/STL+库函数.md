@@ -83,7 +83,7 @@ pair<int, int>
 
 + insert()  插入一个数
 + find()  查找一个数
-+ count()  返回某一个数的个数
++ count()  返回某一个数的个数(可以用来判断一个数有没有出现过`pos.count(d)`)
 + erase()
   1. 输入是一个数x，删除所有x   O(k + logn)
   2. 输入一个迭代器，删除这个迭代器
