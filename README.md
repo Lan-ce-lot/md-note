@@ -16,27 +16,23 @@ This my markdown note.
 
 ## Security
 
-### Any optional sections
+absolute safety
 
 ## Background
 
-### Any optional sections
+A computer student's note
 
 ## Install
 
-This module depends upon a knowledge of [Markdown]().
-
 ```
+git clone https://github.com/Lan-ce-lot/md-note.git
 ```
 
-### Any optional sections
+Or click clone.
 
 ## Usage
 
-```
-```
-
-Note: The `license` badge image link at the top of this file should be updated with the correct `:user` and `:repo`.
+Markdown format, open view.
 
 ### Any optional sections
 
@@ -46,22 +42,14 @@ Sorry, this function is temporarily unavailable
 
 Sorry, this function is temporarily unavailable
 
-### Any optional sections
-
-Sorry, this function is temporarily unavailable
-
 ## Contributing
 
 See [![the contributing file](http://39.107.228.31/wp-content/uploads/2020/03/244e3c58bd3ea008704e0115341e942e2e9c1ece221e4-f6wx71_fw658.jpg)](https://github.com/Lan-ce-lot)!
 
 PRs accepted.
 
-Small note: If editing the Readme, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
-
-### Any optional sections
-
 ## License
 
 [![license](https://img.shields.io/github/license/:user/:repo.svg)](LICENSE)
 
-[MIT © Lance.](../LICENSE)
+[MIT © Lance.](http://39.107.228.31/)
