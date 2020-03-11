@@ -52,7 +52,7 @@ Sorry, this function is temporarily unavailable
 
 ## Contributing
 
-See [![the contributing file](http://39.107.228.31/wp-admin/customize.php?url=http%3A%2F%2F39.107.228.31%2F)]()!
+See [![the contributing file](http://39.107.228.31/wp-content/uploads/2020/03/244e3c58bd3ea008704e0115341e942e2e9c1ece221e4-f6wx71_fw658.jpg)]()!
 
 PRs accepted.
 
