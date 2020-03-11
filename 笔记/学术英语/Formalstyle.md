@@ -17,11 +17,22 @@
 1. Use academic and formal words instead of colloquial and informal expressions.用学术和正式的词语代替口语和非正式的表达
 
    1. perception(看法), derive from(由…起源), be indicative of(说明), render(提供), affirmative(肯定的), initiate(begin)
+
    2. 推荐牛津，柯林斯
 
-   ​	
+      1. <img src="C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200311073712802.png" alt="image-20200311073712802" style="zoom: 200%;" />
 
-<img src="C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200311073712802.png" alt="image-20200311073712802" style="zoom: 200%;" />
+      
+
+      ```
+      kid/child -> offspring
+      boss 	  -> manager
+      enough 	  -> adequate, sufficient, substantial, solid 
+      bad 	  -> unfavorable, severe, detrimental 
+      different -> diverse, various 
+      important -> critical, crucial, vital, indispensable 
+      emphasize -> highlight, underline, underscore
+      ```
 
 2. Avoid using too many phrasal verbs if there are suitable synonyms.(如果有合适的同义词，避免使用过多的短语动词)
    1. speed up -> accelerate

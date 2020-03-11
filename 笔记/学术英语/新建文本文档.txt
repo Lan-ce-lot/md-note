@@ -1,0 +1,35 @@
+下列句子为什么不适用于学术论文?指出问题并修改为 objective and formal style1. If our environment is not protected , our children will suffer the most .
+2. I believe that we need to address these problems .
+3. Participating in social activities as volunteers can be a wonderful experience for our children .
+4. Economic situation won't improve until efforts are made by the government.
+
+
+
+If our environment is not protected , our children will suffer the most .
+
+If the environment is not protected, future generations will suffer the most
+如果我们的环境得不到保护，我们的孩子将遭受最大的痛苦
+环境得不到保护，将导致后代遭受最大的痛苦
+1.第一句使用了第一人称，过于主观
+改：
+
+
+
+I believe that we need to address these problems .我认为我们需要解决这些问题。
+这些问题需要被我们解决
+I believe that we need to address these problems
+
+
+2. 使用了第一人称，过于主观，第二句使用了可替代的动词address
+These problems need to be solved by us
+
+Participating in social activities as volunteers can be a wonderful experience for our children .
+作为志愿者参加社会活动对我们的孩子来说是一次美妙的经历。
+3. 
+
+4. Economic situation won't improve until efforts are made by the government.
+除非政府作出努力，否则经济形势不会好转。
+4.Economic situation will not improve until efforts are made by the government.
+
+won't 缩写will not
+
