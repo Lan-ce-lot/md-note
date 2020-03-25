@@ -1,35 +1,22 @@
-下列句子为什么不适用于学术论文?指出问题并修改为 objective and formal style1. If our environment is not protected , our children will suffer the most .
-2. I believe that we need to address these problems .
-3. Participating in social activities as volunteers can be a wonderful experience for our children .
-4. Economic situation won't improve until efforts are made by the government.
+Rewrite the sentences by using hedging language
+用模糊限制语改写句子
+1. In spite of its limitations the study has number of important strength
+2. It is proved that animals become old because if they did not there were no successive replacement of individuals and hence no evolution
+3. The effect of these small particles is to cool the climate and to partially offset the increasing concentrations of greenhouse gases
+4. Very high radiation doses will destroy body functions and lead to death within 60 days
+5. The effects of routine releases of radioactivity from nuclear plants depend on how the spent fuel is handled
 
 
+一。尽管有局限性，这项研究仍有许多重要的优点
+ 数量的表达
+In spite of its limitations the study may has a number of important strength
+2。事实证明，动物之所以变老，是因为如果它们不这样做，就没有连续的个体更替，也就没有进化
+It is proved that animals become old because if they did not there might be no successive replacement of individuals and hence might be no evolution
+三。这些小颗粒的作用是冷却气候，部分抵消温室气体浓度的增加
+ The effect of these small particles is to cool the climate and to partially offset the increasing concentrations of greenhouse gases
+四。极高的辐射剂量会在60天内破坏人体功能并导致死亡
 
-If our environment is not protected , our children will suffer the most .
-
-If the environment is not protected, future generations will suffer the most
-如果我们的环境得不到保护，我们的孩子将遭受最大的痛苦
-环境得不到保护，将导致后代遭受最大的痛苦
-1.第一句使用了第一人称，过于主观
-改：
-
-
-
-I believe that we need to address these problems .我认为我们需要解决这些问题。
-这些问题需要被我们解决
-I believe that we need to address these problems
+5。核电站放射性的常规释放的影响取决于乏燃料的处理方式
 
 
-2. 使用了第一人称，过于主观，第二句使用了可替代的动词address
-These problems need to be solved by us
-
-Participating in social activities as volunteers can be a wonderful experience for our children .
-作为志愿者参加社会活动对我们的孩子来说是一次美妙的经历。
-3. 
-
-4. Economic situation won't improve until efforts are made by the government.
-除非政府作出努力，否则经济形势不会好转。
-4.Economic situation will not improve until efforts are made by the government.
-
-won't 缩写will not
-
+It may be said that

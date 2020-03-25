@@ -123,7 +123,49 @@ pair<int, int>
 
 ---
 
+## 容器遍历
 
+1. C++11以下`迭代器遍历`
+
+2. 以上用auto
+
+```c++
+void traverseVector_2(vector<int> v)
+{
+	// 注：如果参数为const vector<int> 需要用const_iterator
+	vector<int>::iterator it = v.begin();
+	// vector<int>::const_iterator iter=v.begin();
+	for(; it != v.end(); ++it)
+	{
+		cout<<(*it)<<" ";
+	}
+	cout<<endl;
+}
+```
+
+2. `copy`
+
+
+
+```
+// vector容器遍历方式3 —— cpoy函数遍历
+void traverseVector_3(vector<int> v)
+{
+	copy(v.begin(), v.end(), ostream_iterator<int>(cout, " ") );
+	cout<<endl;
+}
+```
+
+3. map
+
+   ```c++
+   		for (map<int,int>::iterator it = M.begin(); it != M.end(); it++)
+   		{
+   			cout << it->first << ' ' << it->second << endl;
+   		}
+   ```
+
+   
 
 # 神仙库函数
 
@@ -158,3 +200,15 @@ pair<int, int>
    cout<<ans;
    ```
 
+2. 数学专题
+
+   1. ````
+      	double a=9,b=10;
+      	cout<<log(a)<<endl;
+      	cout<<log(exp(a))<<endl;
+      	cout<<log10(b)<<endl;
+      	
+      	cout<<"b="<<b<<"时，以2为底的对数函数="<<log(b)/log(a)<<endl;
+      ````
+
+   2. 
