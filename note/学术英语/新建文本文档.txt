@@ -15,8 +15,23 @@ It is proved that animals become old because if they did not there might be no s
 三。这些小颗粒的作用是冷却气候，部分抵消温室气体浓度的增加
  The effect of these small particles is to cool the climate and to partially offset the increasing concentrations of greenhouse gases
 四。极高的辐射剂量会在60天内破坏人体功能并导致死亡
+It is likely that Very high radiation doses will destroy body functions and lead to death within 60 days
 
+It is likely that very high radiation doses will destroy body functions and may lead to death within 60 days.
 5。核电站放射性的常规释放的影响取决于乏燃料的处理方式
 
 
 It may be said that
+
+
+
+
+
+(suggest, could) 3) The  effect  of  these  small  particles  is  to  cool  the  climate  and  to  partially  offset  the warming of increasing concentrations of greenhouse gases. (likely)  4)  
+
+
+
+标答
+3. It is likely that the effect of these small particles is to cool the climate and to partially offset the increasing concentrations of greenhouse gases. 
+4.Very high radiation doses can destroy body functions and lead to death within 60 days
+5.The effects of routine releases of radioactivity from nuclear plants depend somewhat on how the spent fuel is handled.

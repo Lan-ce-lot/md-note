@@ -1,0 +1,81 @@
+if not exists(select 1 from sys.servers where name='DBVIP')
+begin
+EXEC sp_addlinkedserver
+      @server='DBVIP',--被访问的服务器别名(任意的名称)
+      @srvproduct='',
+      @provider='SQLOLEDB',
+      @datasrc='127.0.0.1'   --要访问的服务器(SQL SERVER实例名)
+
+EXEC sp_addlinkedsrvlogin
+     'DBVIP', --被访问的服务器别名
+     'false',
+     NULL,
+     'sa', --登陆链接服务器的帐号
+     '123' --登陆链接服务器的密码
+end
+go --（go的作用）将语句分开执行，否则会报错
+
+--查看已注册的链接服务器
+exec sp_linkedservers
+
+--查询链接服务器上的表
+select * from DBVIP.database_name.dbo.table_name
+go
+--DBVIP.database_name.dbo.table_name 远程服务器完整表名(必须用4部分表示)
+
+--用完后可删除
+if exists(select 1 from sys.servers where name='DBVIP')
+begin
+Exec sp_droplinkedsrvlogin DBVIP,NULL --删除链接服务器的登陆帐户
+Exec sp_dropserver DBVIP --删除链接服务器
+end
+go
+--查看已注册的链接服务器
+exec sp_linkedservers
+
+
+
+
+
+
+sp_addlinkedserver N'Myexcel', N'ACE 12.0',
+N'Microsoft ACE.OLEDB 12.0',
+N'E:\new\server\base\mysheet.xls', NULL, N'excel 5.0'
+GO 
+sp_addlinkedsrvlogin N'Myexcel', false, N'sa', N'soft008', NULL 
+Go
+
+Microsoft Jet.OLEDB 4.0
+Microsoft.Jet.OLEDB.4.0 改成Microsoft.ACE.OLEDB.12.0
+Microsoft.ACE.OLEDB.12.0
+
+Access 
+
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft SQL Server\MSSQL.1\Providers
+
+
+exec sp_configure 'show advanced options',1
+reconfigure
+exec sp_configure 'Ad Hoc Distributed Queries',1
+reconfigure
+
+
+SELECT * 
+　　FROM OpenDataSource ( 'Microsoft.Jet.OLEDB.4.0', 
+　　'Data Source="E:/new/server/base/Mysheet.xls";User ID=Admin;Password=;Extended properties=Excel 5.0')...xactions 
+
+
+
+
+SELECT * 
+　　FROM OpenDataSource ( 'Microsoft.ACE.OLEDB.12.0', 
+　　'Data Source="E:/new/server/base/Mysheet.xls";User ID=Admin;Password=;Extended properties=Excel 5.0')...[sheet1$]  
+
+
+E:/new/server/base/My.xls
+SELECT * FROM OPENROWSET('Microsoft.ACE.OLEDB.12.0', 'Excel 12.0;Database=E:\\new\\server\\base\\My.xls;HDR=YES', 'SELECT * FROM [sheet1$]')
+SELECT * FROM OPENROWSET('Microsoft.ACE.OLEDB.12.0', 'Excel 12.0;Database=\\svr\dir\myfile.xlsx;HDR=YES', 'SELECT * FROM [sheet1$]')
+
+删除
+exec sp_dropserver 'Myexcel', 'droplogins'
