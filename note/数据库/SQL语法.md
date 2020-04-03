@@ -2,6 +2,13 @@
 
 [toc]
 
+## 常用
+
+```sql
+-- 查看表信息
+DESC bb;
+```
+
 ## 简介
 
 > - SQL，指结构化查询语言，全称是 Structured Query Language。
