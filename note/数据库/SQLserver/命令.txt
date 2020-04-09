@@ -79,3 +79,8 @@ SELECT * FROM OPENROWSET('Microsoft.ACE.OLEDB.12.0', 'Excel 12.0;Database=\\svr\
 
 删除
 exec sp_dropserver 'Myexcel', 'droplogins'
+
+
+
+
+查看表信息：sp_help 员工表;
