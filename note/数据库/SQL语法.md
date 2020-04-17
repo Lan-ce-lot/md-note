@@ -60,6 +60,14 @@ create table 学生
 );
 ```
 
++ 主键
+
+```mysql
+PRIMARY KEY(id,deptId)
+```
+
+
+
 ### SELECT 语句
 
 > SELECT 语句用于从数据库中选取数据。
