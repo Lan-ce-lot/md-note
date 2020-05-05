@@ -1,37 +1,37 @@
-Rewrite the sentences by using hedging language
-用模糊限制语改写句子
-1. In spite of its limitations the study has number of important strength
-2. It is proved that animals become old because if they did not there were no successive replacement of individuals and hence no evolution
-3. The effect of these small particles is to cool the climate and to partially offset the increasing concentrations of greenhouse gases
-4. Very high radiation doses will destroy body functions and lead to death within 60 days
-5. The effects of routine releases of radioactivity from nuclear plants depend on how the spent fuel is handled
+Synthesize the information from the two sources and give your comments if necessary.
+综合两个来源的信息，必要时给出你的评论。
+Source 1
+
+Clearly, one of the most serious problems associated with playing computer games is that they are highly addictive. Parents often find that when their children start playing games they simply cannot stop. There is some evidence that as a result of their compulsive involvement in computer games, some young people tend to ignore more important activities such as homework and reading. There are also concerns that their solitary absorption in computer games prevents them interacting with family and friends.很明显，玩电脑游戏最严重的问题之一就是它很容易上瘾。家长们常常发现，当孩子们开始玩游戏时，他们根本停不下来。有证据表明，由于沉迷于电脑游戏，一些年轻人往往忽视了更重要的活动，如作业和阅读。还有人担心，他们沉迷于电脑游戏，无法与家人和朋友互动。
 
 
-一。尽管有局限性，这项研究仍有许多重要的优点
- 数量的表达
-In spite of its limitations the study may has a number of important strength
-2。事实证明，动物之所以变老，是因为如果它们不这样做，就没有连续的个体更替，也就没有进化
-It is proved that animals become old because if they did not there might be no successive replacement of individuals and hence might be no evolution
-三。这些小颗粒的作用是冷却气候，部分抵消温室气体浓度的增加
- The effect of these small particles is to cool the climate and to partially offset the increasing concentrations of greenhouse gases
-四。极高的辐射剂量会在60天内破坏人体功能并导致死亡
-It is likely that Very high radiation doses will destroy body functions and lead to death within 60 days
+Davies S. 2003. Computer games and personal development. Family Forum. Retrieved December 28, 2013 from http://www.ff.org
 
-It is likely that very high radiation doses will destroy body functions and may lead to death within 60 days.
-5。核电站放射性的常规释放的影响取决于乏燃料的处理方式
+Source 2
+
+Popular activities of any sort can be addictive. Some people are addicted to sport, and some to television, for example. Both these examples, and many others, can be harmful to one's health and social life if done too much. In addition, the quality of a computer game is an important factor that may cause people to play it a lot. In fact, some players think that a good computer game should be addictive.各种流行的活动都可能使人上瘾。 例如，有些人沉迷于运动，有些则沉迷于电视。 如果做得太多，这两个例子以及许多其他例子都可能危害一个人的健康和社会生活。 另外，计算机游戏的质量是可能导致人们大量玩它的重要因素。 实际上，一些玩家认为好的计算机游戏应该会让人上瘾。
+ 
+Smith AJ. 2003. Synthesis. Retrieved December 28, 2013 from the Hong Kong Polytechnic University, the English Language Centre Website: http://elc.polyu.edu.hk/CILL/eap/synthesis.htm
 
 
-It may be said that
+电脑游戏会使人上瘾影响人正常生活
+
+由于沉迷于电脑游戏，一些年轻人往往忽视了更重要的活动, 无法与家人和朋友互动
+
+沉迷于电脑游戏导致一个人的健康和社会生活受到危害, 而导致人们上瘾的重要因素可能是计算机游戏的质量
+
+在我看来，沉迷游戏对人有害，我们要多花时间和亲人朋友交流
+//=====
+topic:
+
+Playing computer games can be addictive(Davies S, 2003;Smith Aj, 2003).Because of their addiction to computer games, some teenagers often neglect more significant activities and are unable to interact with people around them (Davies S, 2003).According to Smith Aj (2003), Addicted to computer games leads to the harm of one's health and social life, and the quality of computer games may be an important factor leading to people's addiction.In my opinion, it's harmful for us to indulge in computer games, so we need to spend more time communicating with our relatives and friends.
+
+Addicted to computer games will have a bad impact on people.Because of their addiction to computer games, some teenagers often neglect more significant activities and are unable to interact with people around them (Davies S, 2003).According to Davies S (2003), Addicted to computer games leads to the harm of one's health and social life, and the quality of computer games may be an important factor leading to people's addiction.In my opinion, it's harmful for us to indulge in computer games, so we need to spend more time communicating with our relatives and friends.
 
 
+Indulge in any activity and do too much, will have a bad impact on people.According to Smith AJ（2003），too much of one thing will affect people's health and social life.For example,being addicted to computer games will make people ignore important things and affect their social communication（Davies S. 2003）.
 
 
-
-(suggest, could) 3) The  effect  of  these  small  particles  is  to  cool  the  climate  and  to  partially  offset  the warming of increasing concentrations of greenhouse gases. (likely)  4)  
-
-
-
-标答
-3. It is likely that the effect of these small particles is to cool the climate and to partially offset the increasing concentrations of greenhouse gases. 
-4.Very high radiation doses can destroy body functions and lead to death within 60 days
-5.The effects of routine releases of radioactivity from nuclear plants depend somewhat on how the spent fuel is handled.
+Indulge in any activity and do too much, will have a bad impact on people.According to Smith AJ（2003），too much of one thing will affect people's health and social life.For example,being addicted to computer games will make people ignore important things and affect their social communication（Davies S. 2003）.
+(Davies S, 2003)
+(Smith Aj, 2003)
